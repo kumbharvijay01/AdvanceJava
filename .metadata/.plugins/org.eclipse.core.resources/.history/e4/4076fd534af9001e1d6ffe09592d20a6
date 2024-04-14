@@ -1,0 +1,47 @@
+/**
+ * 
+ */
+package com.org.radical.controller;
+
+import java.io.IOException;
+
+import jakarta.servlet.http.HttpServlet;
+
+/**
+ * 
+ */
+
+public class LoginServlet extends HttpServlet {
+
+	@Override
+	protected void doGet(jakarta.servlet.http.HttpServletRequest req, jakarta.servlet.http.HttpServletResponse resp)
+			throws jakarta.servlet.ServletException, IOException {
+		System.out.println("Get Method Called");
+	}
+
+	@Override
+	public void destroy() {
+		System.out.println("Destroy Called Once");
+	}
+
+	@Override
+	public void init() throws jakarta.servlet.ServletException {
+		System.out.println("Init Called Once");
+	}
+
+//	@Override
+//	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+//		System.out.println("Get Method Called");
+//	}
+//
+//	@Override
+//	public void destroy() {
+//		System.out.println("Destroy Called Once");
+//	}
+//
+//	@Override
+//	public void init() throws ServletException {
+//		System.out.println("Init Called Once");
+//	}
+
+}

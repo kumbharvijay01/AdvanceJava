@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package com.org.radical.filters;
+
+import javax.servlet.Filter;
+
+/**
+ * 
+ */
+
+public class LoginFilter implements Filter {
+
+}

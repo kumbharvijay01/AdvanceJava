@@ -1,0 +1,22 @@
+
+
+java:S1450"XRemove the "statement" field and declare it as a local variable in the relevant methods.(‹Ê«ñùÿÿÿÿ8»¡Şšé0HİRMINORZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šö¯üüÿÿÿÿHàRCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—ÚÊ×ıÿÿÿÿHáRCRITICALZ
+CODE_SMELL
+i	java:S106\"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHâRMAJORZ
+CODE_SMELL
+d	java:S106a"9Replace this use of System.out or System.err by a logger.(£§©ŞHãRMAJORZ
+CODE_SMELL
+i	java:S106d"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHäRMAJORZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úäÀ˜úÿÿÿÿHåRCRITICALZ
+CODE_SMELL
+l
+java:S6437@"6Revoke and change this password, as it is compromised.(ä¢ôŞüÿÿÿÿHæRBLOCKERZVULNERABILITY
+d	java:S106Y"9Replace this use of System.out or System.err by a logger.(©¨ĞæHèRMAJORZ
+CODE_SMELL
+n	java:S125)"<This block of commented-out lines of code should be removed.(§ ì°8‚êŞšé0HéRMAJORZ
+CODE_SMELL

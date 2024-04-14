@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+package com.org.radical.controller;
+
+/**
+ * 
+ */
+public class ForgetPasswordServlet extends jakarta.servlet.http.HttpServlet{
+
+}

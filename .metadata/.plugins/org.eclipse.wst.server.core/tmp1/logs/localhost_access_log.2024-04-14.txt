@@ -1,0 +1,15 @@
+127.0.0.1 - - [14/Apr/2024:09:17:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:00 +0530] "GET /FirstApp/ HTTP/1.1" 200 105513
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:00 +0530] "GET /FirstApp/assets/images/avatars/9.jpg HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:00 +0530] "GET /FirstApp/assets/images/avatars/4.jpg HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:00 +0530] "GET /FirstApp/assets/images/avatars/1.jpg HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:00 +0530] "GET /FirstApp/assets/images/avatars/2.jpg HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:00 +0530] "GET /FirstApp/assets/images/avatars/5.jpg HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:00 +0530] "GET /FirstApp/assets/images/avatars/3.jpg HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:02 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:07 +0530] "GET /FirstApp/Student.html HTTP/1.1" 200 927
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:16 +0530] "GET /FirstApp/StudentRegistrationServlet?fname=ANC&mname=ANC&lname=ANC HTTP/1.1" 200 23
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:34 +0530] "GET /FirstApp/StudentRegistrationServlet?fname=Smita&mname=ANC&lname=ANC HTTP/1.1" 200 25
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:18:49 +0530] "GET /FirstApp/StudentRegistrationServlet?fname=Abhinav&mname=ANC&lname=ANC HTTP/1.1" 200 27
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:19:01 +0530] "GET /FirstApp/StudentRegistrationServlet?fname=Kiran&mname=ANC&lname=ANC HTTP/1.1" 200 25
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:09:26:16 +0530] "GET /FirstApp/StudentRegistrationServlet?fname=Kiran&mname=ANC&lname=ANC HTTP/1.1" 200 51

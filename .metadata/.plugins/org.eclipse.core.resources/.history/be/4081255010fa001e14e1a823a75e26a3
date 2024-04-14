@@ -1,0 +1,51 @@
+/**
+ * 
+ */
+package com.org.test;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.GenericServlet;
+import javax.servlet.ServletException;
+import javax.servlet.ServletRequest;
+import javax.servlet.ServletResponse;
+
+/**
+ * @author vijaykumbhar
+ *
+ */
+public class StudentRegistrationServlet extends GenericServlet {
+
+	@Override
+	public void destroy() {
+
+		System.out.println("Destroy Called");
+		super.destroy();
+	}
+
+	@Override
+	public void init() throws ServletException {
+		System.out.println("Init Called");
+		super.init();
+	}
+
+	@Override
+	public void service(ServletRequest request, ServletResponse response) throws ServletException, IOException {
+
+		PrintWriter out = response.getWriter();
+
+		String fname, lname, mname;
+		fname = request.getParameter("fname");
+		mname = request.getParameter("mname");
+		lname = request.getParameter("lname");
+		StringBuilder stringBuilder = new StringBuilder();
+		stringBuilder.append("<h1>Hi ");
+		stringBuilder.append(fname + " ");
+		stringBuilder.append(mname + " </h1>");
+		stringBuilder.append(lname);
+		out.print(stringBuilder.toString());
+
+	}
+
+}

@@ -1,0 +1,16 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.(ç¬¾É8‡ˆá¶›1HøRMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(æáŞéıÿÿÿÿ8Ö³¶›1HùRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(äÇ¨Òşÿÿÿÿ8Ö³¶›1HúRMAJORZ
+CODE_SMELL
+m
+java:S1128
+":Remove this unused import 'javax.servlet.ServletResponse'.(ìÃ¢»8ÓúØ¶›1HûRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(™œ©Ñ8Ö³¶›1HıRMAJORZ
+CODE_SMELL
+l
+java:S1128	"9Remove this unused import 'javax.servlet.ServletRequest'.(ë´áÙ8ÓúØ¶›1HşRMINORZ
+CODE_SMELL

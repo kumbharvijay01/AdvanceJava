@@ -1,0 +1,4 @@
+com\org\radical\TestingWeb\util\DbConnection.class
+com\org\radical\TestingWeb\LoginServlet.class
+com\org\radical\TestingWeb\LoginFilter.class
+com\org\radical\TestingWeb\SimpleService.class

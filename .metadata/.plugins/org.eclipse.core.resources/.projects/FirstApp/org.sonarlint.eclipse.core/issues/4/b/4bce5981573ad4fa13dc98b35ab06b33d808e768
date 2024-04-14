@@ -1,0 +1,37 @@
+
+ƒ
+java:S1128"KRemove this unused import 'com.org.jdbc.study.connection.CommonConnection'.(‹úÚ úÿÿÿÿ8ñòìšé0H›RMINORZ
+CODE_SMELL
+i
+java:S1135="2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ó¢Ûšé0HRINFOZ
+CODE_SMELL
+i
+java:S1135@"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ó¢Ûšé0HRINFOZ
+CODE_SMELL
+{
+java:S2095)"HUse try-with-resources or close this "Connection" in a "finally" clause.(¹»­èúÿÿÿÿ8Ğ¾åšé0HŸRBLOCKERZBUG
+k	java:S106""9Replace this use of System.out or System.err by a logger.(üÌî¬8ÙÃšé0H RMAJORZ
+CODE_SMELL
+z
+java:S2095*"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ8ñòìšé0H¡RBLOCKERZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ø™‚Ş8«©Æšé0H¢RMAJORZ
+CODE_SMELL
+^
+java:S1481+"+Remove this unused "rownum" local variable.(ÎŒäí8Ë–”›é0H£RMINORZ
+CODE_SMELL
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(Ñƒ€úÿÿÿÿ8²àğšé0H¥RMAJORZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(¶Êöªÿÿÿÿÿ8“˜œ›é0H¦RMAJORZ
+CODE_SMELL
+w
+java:S2147?"DCombine this catch with the one at line 59, which has the same body.(É®£8Ó¢Ûšé0H§RMINORZ
+CODE_SMELL
+s
+java:S6437)"6Revoke and change this password, as it is compromised.(¹»­èúÿÿÿÿ8Ğ¾åšé0H«RBLOCKERZVULNERABILITY
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(¨Çˆ—8Ó¢Ûšé0H­RMAJORZ
+CODE_SMELL
+m
+java:S1854+":Remove this useless assignment to local variable "rownum".(ÎŒäí8Ë–”›é0H®RMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(Šğš8éâ‹›é0H¯RMAJORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(äÇ¨Òþÿÿÿÿ8µ¤ä…¿0H®RMAJORZ
+CODE_SMELL
+v
+java:S1128">Remove this unused import 'jakarta.servlet.RequestDispatcher'.(•Üè•ýÿÿÿÿ8Å›ž†¿0H¯RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¤Šñ²üÿÿÿÿ8µ¤ä…¿0H±RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(æáÞéýÿÿÿÿ8ížâ…¿0H²RMAJORZ
+CODE_SMELL

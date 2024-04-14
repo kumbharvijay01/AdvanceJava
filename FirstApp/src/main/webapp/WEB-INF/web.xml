@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	id="WebApp_ID" version="3.1">
+	<display-name>FirstApp</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+	</welcome-file-list>
+	<servlet>
+		<servlet-name>Login</servlet-name>
+		<servlet-class>com.org.test.LoginServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Login</servlet-name>
+		<url-pattern>/Login</url-pattern>
+	</servlet-mapping>
+	<!--	<filter>-->
+	<!--		<filter-name>A</filter-name>-->
+	<!--		<filter-class>com.org.test.LoginFilter</filter-class>-->
+	<!--	</filter>-->
+	<!--	<filter-mapping>-->
+	<!--		<filter-name>A</filter-name>-->
+	<!--		<url-pattern>/Login</url-pattern>-->
+	<!--	</filter-mapping>-->
+
+
+	<servlet>
+		<servlet-name>EmployeeRegistration</servlet-name>
+		<servlet-class>com.org.test.EmployeeRegistration</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>EmployeeRegistration</servlet-name>
+		<url-pattern>/vibhor</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>StudentRegistrationServlet</servlet-name>
+		<servlet-class>com.org.test.StudentRegistrationServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>StudentRegistrationServlet</servlet-name>
+		<url-pattern>/StudentRegistrationServlet</url-pattern>
+	</servlet-mapping>
+
+</web-app>

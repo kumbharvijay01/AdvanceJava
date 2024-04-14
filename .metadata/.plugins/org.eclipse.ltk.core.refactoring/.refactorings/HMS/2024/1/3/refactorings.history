@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.org.radical.IndexServelet&apos; to &apos;IndexServlet&apos;&#x0D;&#x0A;- Original project: &apos;HMS&apos;&#x0D;&#x0A;- Original element: &apos;com.org.radical.IndexServelet&apos;&#x0D;&#x0A;- Renamed element: &apos;com.org.radical.IndexServlet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IndexServelet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.org.radical{IndexServelet.java[IndexServelet" matchStrategy="1" name="IndexServlet" qualified="false" references="true" similarDeclarations="false" stamp="1705419436109" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÓıÅHÄRMAJORZ
+CODE_SMELL
+f
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿHÁRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(„µˆHÃRMAJORZ
+CODE_SMELL
